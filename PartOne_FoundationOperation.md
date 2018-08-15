@@ -7,7 +7,7 @@ this part have three key words, as follow:
 3. file:Record main project message.
 
 Meanwhile will have a list of operation:
-The first: Creat repository
+</br>The first: Creat repository
 The second: Creat Brach
 The third: Edit and commit
 The forth: Compare the brach with master
