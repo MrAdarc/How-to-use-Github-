@@ -14,7 +14,7 @@ The forth: Compare the brach with master
 The fifth: Merge the pull request
 
 ## The first: Creat repository
-![bandicam 2018-08-15 10-08-35-910.jpg](https://github.com/MrAdarc/How-to-use-Github-/raw/master/PartOne_Picture/The First/bandicam 2018-08-15 10-08-35-910.jpg)  
+![Creat repository](https://github.com/MrAdarc/How-to-use-Github-/raw/master/PartOne_Picture/The_First/1.jpg)  
 ## The second: Creat Brach
 
 ## The third: Edit and commit
