@@ -33,6 +33,8 @@
 
 &#8195;&#8195;在markdown文档中，由于支持HTML编程，因此对公式的插入也支持HTML形式，然而由于不支持Latex的公式输入，这里以产生图片链接的形式产生公式，如下：
 
+<h6>方式一</h6>
+
 **格式**</br>
 ```
 <div align=center><img src="https://latex.codecogs.com/gif.latex?[公式]" /></a></div>
@@ -49,6 +51,30 @@
 **样式**</br>
 
 <img src="https://latex.codecogs.com/gif.latex?f(\xi)=\frac{f(b)-f(a)}{b-a}" />
+
+<h6>方式二</h6>
+
+&#8195;&#8195;安装完chrom插件[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima/related)后，直接使用下述格式可完成公式的插入：
+**格式**</br>
+```
+$$[公式]$$
+```
+
+**说明**</br>
+&#8195;&#8195;“[公式]”部分为填写公式的主要内容，支持Latex语法方式的输入；
+
+**例子**</br>
+```
+  $$f(\xi)=\frac{f(b)-f(a)}{b-a}$$
+```
+
+**样式**</br>
+
+$$f(\xi)=\frac{f(b)-f(a)}{b-a}$$
+
+
+
+
 
 <h3 id="titleAnchor-gs">
 （2）图标及其相关语法</h3>
