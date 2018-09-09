@@ -71,11 +71,11 @@ width="[横向比例]" height="[纵向比例]"
 
 **实例**</br>
 ```
+<img src="./PartTwo_Picture/20161028230559575.png">
 <img src="./PartTwo_Picture/20161028230559575.png" width="10%" height="8%">
 ```
 
 **样式**</br>
-<center>
 <img src="./PartTwo_Picture/20161028230559575.png">
 <img src="./PartTwo_Picture/20161028230559575.png" width="10%" height="8%">
-</center>
+
